@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Microsoft MVP (2020-2022), community co-organizer of twMVC and DevOps Taiwan, blogger, speaker and 5 years experience .NET developer. Recently focus on ASP.NET Core. Enjoying working in autonomous, highly motivated and challenged environments. Responsible, innovative, passionate and committed professional with a get it done approach.
+I'm a Microsoft MVP (2020-2022), community co-organizer of twMVC and DevOps Taiwan, blogger, speaker and .NET developer. Recently focus on ASP.NET Core. Enjoying working in autonomous, highly motivated and challenged environments. Responsible, innovative, passionate and committed professional with a get it done approach.
 
 Languages: English and Mandarin.
